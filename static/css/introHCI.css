@@ -1,6 +1,27 @@
 .project {
      margin-left: 20px;
 }
+
+.project {
+     background-color: gray;
+     margin-left: 10px;
+}
+
+img.thumbnail {
+     width:150px;
+     height:150px;
+     border: 1px solid #434343;
+}
+
+.contact-info{
+     font-size: 10pt;
+     color: #cccccc;
+}
+
+.project {
+     background-color: gray;
+     margin-left: 10px;
+}
 /* applies to anything of class "example-class-selector" */
 .example-class-selector {
 	margin-top: 2em;
